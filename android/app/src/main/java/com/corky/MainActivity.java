@@ -1,4 +1,4 @@
-package com.muratgocmen.corky;
+package com.corky;
 
 import com.facebook.react.ReactActivity;
 

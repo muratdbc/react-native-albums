@@ -1,4 +1,4 @@
-package com.muratgocmen.corky;
+package com.corky;
 
 import android.app.Application;
 
