@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "AlbumApp-tvOS.app"
-               BlueprintName = "AlbumApp-tvOS"
-               ReferencedContainer = "container:AlbumApp.xcodeproj">
+               BuildableName = "Corky-tvOS.app"
+               BlueprintName = "Corky-tvOS"
+               ReferencedContainer = "container:Corky.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AlbumApp-tvOSTests.xctest"
-               BlueprintName = "AlbumApp-tvOSTests"
-               ReferencedContainer = "container:AlbumApp.xcodeproj">
+               BuildableName = "Corky-tvOSTests.xctest"
+               BlueprintName = "Corky-tvOSTests"
+               ReferencedContainer = "container:Corky.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "AlbumApp-tvOSTests.xctest"
-               BlueprintName = "AlbumApp-tvOSTests"
-               ReferencedContainer = "container:AlbumApp.xcodeproj">
+               BuildableName = "Corky-tvOSTests.xctest"
+               BlueprintName = "Corky-tvOSTests"
+               ReferencedContainer = "container:Corky.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AlbumApp-tvOS.app"
-            BlueprintName = "AlbumApp-tvOS"
-            ReferencedContainer = "container:AlbumApp.xcodeproj">
+            BuildableName = "Corky-tvOS.app"
+            BlueprintName = "Corky-tvOS"
+            ReferencedContainer = "container:Corky.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AlbumApp-tvOS.app"
-            BlueprintName = "AlbumApp-tvOS"
-            ReferencedContainer = "container:AlbumApp.xcodeproj">
+            BuildableName = "Corky-tvOS.app"
+            BlueprintName = "Corky-tvOS"
+            ReferencedContainer = "container:Corky.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "AlbumApp-tvOS.app"
-            BlueprintName = "AlbumApp-tvOS"
-            ReferencedContainer = "container:AlbumApp.xcodeproj">
+            BuildableName = "Corky-tvOS.app"
+            BlueprintName = "Corky-tvOS"
+            ReferencedContainer = "container:Corky.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

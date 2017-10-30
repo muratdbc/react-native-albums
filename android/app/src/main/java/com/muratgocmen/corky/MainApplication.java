@@ -1,4 +1,4 @@
-package com.muratgocmen.albumapp;
+package com.muratgocmen.corky;
 
 import android.app.Application;
 
