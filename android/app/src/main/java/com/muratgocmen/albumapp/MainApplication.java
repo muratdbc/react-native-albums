@@ -1,4 +1,4 @@
-package com.albums;
+package com.muratgocmen.albumapp;
 
 import android.app.Application;
 
